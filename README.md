@@ -14,8 +14,8 @@
 ### 🏗️ Projects
 
 - [Freifunk Luxembourg](https://freifunk.lu): a free non-commercial meshed wireless network, with custom-built firmware, gateways and services
-- [versioned-patch-system](https://github.com/trixmoe/versioned-patch-system): maintain a variety of patches on top of modules
 - [RIPE Atlas Software Probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) and the respective hardware probe firmware
+- [patchwrt](https://github.com/trixmoe/patchwrt): maintain your custom OpenWrt build (incl. from macOS)
+- [chip-8](https://github.com/trixmoe/chip-8): a CHIP-8 interpreter, written in Scala
 - [beamer-serial](https://github.com/trixmoe/beamer-serial): control your projector via a website
 - [tls-expiry-tracker](https://github.com/trixmoe/tls-expiry-tracker): track outages caused by TLS, work-in-progress
-- [chip-8](https://github.com/trixmoe/chip-8): a CHIP-8 interpreter, written in Scala
