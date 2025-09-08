@@ -6,8 +6,6 @@
   <a href="https://trix.moe">Web</a>
 </p>
 
-Hi there, I'm Trix! I'm a [hacker](https://en.wikipedia.org/wiki/Hacker_culture) that loves networking, OpenWRT, UNIX-like systems and automation.
-
 - 💻 Involved in [Chaos Computer Club Luxembourg](https://c3l.lu) and maintaining [🛜 Freifunk Luxembourg](https://freifunk.lu)
 - 💼 Currently working at [RIPE NCC](https://ripe.net) as an **Embedded Systems Engineer** for [RIPE Atlas](https://atlas.ripe.net/), maintaining the Atlas Probes
 - 💬 Ping me: [@trix@social.c3l.lu](https://social.c3l.lu/@trix) on the Fediverse, `trix` on some IRC networks
